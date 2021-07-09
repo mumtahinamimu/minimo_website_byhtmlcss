@@ -1,0 +1,22 @@
+minimo full website is created by html & css. it is not responsive
+
+
+font-family: 'PlayfairDisplay-Regular', serif;
+
+font-family: 'PlayfairDisplay-Italic', serif;
+
+font-family: 'PlayfairDisplay-Black', serif;
+
+font-family: 'PlayfairDisplay-Bold', serif;
+
+font-family: 'Ubuntu-Light', sans-serif;
+
+Color:
+
+Black: #000000
+
+ash:   #626262
+
+light: #b4ad9e
+
+dark: #333333
